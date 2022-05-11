@@ -1,0 +1,19 @@
+body { background-image: radial-gradient(circle at 35.74% 103.23%, #ff52d7 0, #fe4ade 12.5%, #e944e5 25%, #d23fec 37.5%, #b53cf2 50%, #923cf8 62.5%, #633ffe 75%, #0044ff 87.5%, #0048ff 100%);
+background-size: auto 100%;
+    background-repeat: no-repeat;
+    background-position: left top;
+     }
+
+html, body {
+    height:100%;
+}
+
+.creditos {
+  color: white;
+  margin-top: 20px;
+}
+
+#user{ color: white }
+.boton {   margin: 10px; !important }
+#pfp {   margin-top: 30px; } 
+#btnTiktok {   background-color: #0e0c0f;   border-color: #0e0c0f; }  #btnTiktok:hover {   background-color: black; border-color: black; }  #btnDiscord {   background-color: #343ec7; border-color: #343ec7; }  #btnDiscord:hover {   background-color: #1c27c7; border-color: #1c27c7; }  #btnInstagram {   background-color: #c44598; border-color: #c44598; }  #btnInstagram:hover {   background-color: #b32d84; border-color: #b82584; }
